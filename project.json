@@ -1,0 +1,9 @@
+{
+  "engine": "cocos2d-html5",
+  "packages": "packages",
+  "version": "2.3.3",
+  "name": "spine_bindata_not_working_demo",
+  "uuid": "12fc7471-d08f-4813-8af7-0746378aac4f",
+  "id": "936fa9da-aa99-48b7-9c21-0ef283c85771",
+  "isNew": false
+}
